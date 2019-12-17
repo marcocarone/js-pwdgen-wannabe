@@ -10,10 +10,19 @@ body {
   height: 100vh;
 }
 
-.container__h1 {
+.container__h1,
+.container__h3 {
   color: rgb(119, 119, 119);
   text-transform: uppercase;
-  font-size: 30px;
+  text-align: center;
+}
+
+.container__h1 {
+  font-size: 35px;
+}
+
+.container__h3 {
+  font-size: 14px;
 }
 
 .container__pass {
