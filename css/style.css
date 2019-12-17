@@ -20,3 +20,12 @@ body {
   color: rgb(84, 179, 134);
   font-size: 24px;
 }
+
+
+.dati {
+  padding: 30px;
+  margin-top: 30px;
+  border-radius: 10px;
+  background-color: rgb(168, 193, 190);
+  color: rgb(9, 144, 137);
+}
